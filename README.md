@@ -7,4 +7,4 @@
 
 ## Work Rule
 
-1.[技术部的规范管理及工作流](https://github.com/super-fool/blog/issues/50) 
+1. [技术部的规范管理及工作流](https://github.com/super-fool/blog/issues/50) 
