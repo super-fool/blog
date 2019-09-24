@@ -4,6 +4,7 @@
 
 1. [为什么`typeof function`返回的是`function`?](https://github.com/super-fool/blog/issues/49)
 2. [什么是WebP?](https://github.com/super-fool/blog/issues/57)
+3. [表单验证优化](https://github.com/super-fool/blog/issues/58)
 
 
 ## HTML
