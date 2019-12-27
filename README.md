@@ -6,7 +6,7 @@
 2. [为什么`typeof function`返回的是`function`?](https://github.com/super-fool/blog/issues/49)
 3. [什么是WebP?](https://github.com/super-fool/blog/issues/57)
 4. [表单验证优化](https://github.com/super-fool/blog/issues/58)
-
+5. [二进制与十进制的相互转换](https://github.com/super-fool/blog/issues/67)
 
 ## HTML
 
