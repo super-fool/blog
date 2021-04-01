@@ -7,6 +7,7 @@
 3. [什么是WebP?](https://github.com/super-fool/blog/issues/57)
 4. [表单验证优化](https://github.com/super-fool/blog/issues/58)
 5. [二进制与十进制的相互转换](https://github.com/super-fool/blog/issues/67)
+6. [understanding call Stack and Heap memory in JS](https://github.com/super-fool/blog/issues/72)
 
 ## HTML
 
