@@ -9,6 +9,7 @@
 5. [二进制与十进制的相互转换](https://github.com/super-fool/blog/issues/67)
 6. [understanding call Stack and Heap memory in JS](https://github.com/super-fool/blog/issues/72)
 7. [静态类型 VS 动态类型, 强类型 VS 弱类型](https://github.com/super-fool/blog/issues/78)
+8. [null & undefined](https://github.com/super-fool/blog/issues/79)
 
 ## React
 1. [Tag Input field](https://github.com/super-fool/daily-notes/tree/master/4-14/react-tag-input)
