@@ -11,6 +11,9 @@
 7. [静态类型 VS 动态类型, 强类型 VS 弱类型](https://github.com/super-fool/blog/issues/78)
 8. [null & undefined](https://github.com/super-fool/blog/issues/79)
 
+### faster-cofing
+
+1. [剖析: loop, array reduce & method chaining](https://github.com/super-fool/blog/blob/master/faster-coding/javascript/loop-reduce-chain.js)
 ## React
 1. [Tag Input field](https://github.com/super-fool/daily-notes/tree/master/4-14/react-tag-input)
 
