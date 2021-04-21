@@ -25,6 +25,7 @@ var strStr = function (haystack, needle) {
   return -1;
 };
 
+
 /**
  * KMP算法: 字符串模式匹配算法
  * 在主串T中找到第一次出现完整子串P的位置.
