@@ -77,3 +77,7 @@ let promises = [
 Promise.allSettled(promises).then((result) => console.log(result));
 
 ```
+
+## 栈
+
+ [栈 及 coding](https://github.com/super-fool/blog/issues/83)
