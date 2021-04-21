@@ -44,3 +44,36 @@ flex-basis：0%，
 利用computed：可以查看到flex-grow变为1(默认为0)
 
 https://zhuanlan.zhihu.com/p/147541226
+
+## promise.allSettled polyfill
+
+```js
+
+Promise.allSettled = function(promises) {
+  let mappedPromises = promises.map((p) => {
+    return p
+      .then((value) => {
+        return {
+          status: 'fulfilled',
+          value
+        };
+      })
+      .catch((reason) => {
+        return {
+          status: 'rejected',
+          reason
+        };
+      });
+  });
+  return Promise.all(mappedPromises);
+};
+
+let promises = [
+  Promise.resolve(2),
+  Promise.reject('This is rejected'),
+  new Promise((resolve, reject) => setTimeout(resolve, 400, 67)),
+];
+
+Promise.allSettled(promises).then((result) => console.log(result));
+
+```
