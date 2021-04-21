@@ -42,3 +42,5 @@ flex-shrink：1
 flex-basis：0%，
 
 利用computed：可以查看到flex-grow变为1(默认为0)
+
+https://zhuanlan.zhihu.com/p/147541226
