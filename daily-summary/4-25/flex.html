@@ -9,30 +9,41 @@
   <body>
     <style>
       .item {
-      display: flex;
-      width: 500px;
-      height: 100px;
-    }
-    .item0 {
-      width: 50px;
-      flex: none;
-      background-color: red;
-    }
-    .item1 {
-      flex: 1 1 50px;
-      background-color: green;
-    }
-    .item2 {
-      flex: 7 1 100px;
-      background-color: blue;
-    }
-      </style>
-      <body>
-      <div class="item">
-          <div class="item0">0</div>
-          <div class="item1">1</div>
-          <div class="item2">2</div>
-      </div>
-    <p>flex-grow优先级大于width本身</p>
+        display: flex;
+        width: 500px;
+        height: 100px;
+      }
+      .item0 {
+        width: 50px;
+        flex: none;
+        background-color: red;
+      }
+      .item1 {
+        flex: 1 1 50px;
+        background-color: green;
+      }
+      .item2 {
+        flex: 7 1 100px;
+        background-color: blue;
+      }
+    </style>
+    <div class="item">
+      <div class="item0">0</div>
+      <div class="item1">1</div>
+      <div class="item2">2</div>
+    </div>
+    <p>flex属性由三部分组成: flex-grow, flex-shrink, flex-basis</p>
+    <p>flex-grow: 表示扩大比例, 默认为0, 有剩余空间时占多少比例空间, 优先级比width大</p>
+    <p>flex-shrink: 表示缩小比例, 默认为1, 空间不足时, 按多少比例缩小</p>
+    <p>flex-basis: 表示计算空间比例, 默认为auto, 先按basis计算空间的剩余和不足, 再按照上面属性比例计算.</p>
+    <p>flex: 1 表示 flex: 1 1 0%</p>
+    <p>flex: none 表示 flex: 0 0 auto</p>
+    <br/>
+    <p>总共有两个场景: 容器有剩余空间, 容器无剩余空间</p>
+    <p>具有剩余宽度</p>
+    <p>flex子项的宽度计算公式是： 自身的基础宽度 + 容器剩余宽度 *（自身伸张比例 / 所有子项伸张比例之和）</p>
+    <p>上面的例子具有剩余空间,那么第一个item的宽度可以这么算: 50 + 300 * (0 / 0 + 1 + 7) </p>
+    <p>具有不足宽度</p>
+    <p>当空间不充足时，flex子项的宽度计算公式是： 自身的基础宽度 - 超出宽度 *(自身宽度*收缩比例/总权重）</p>
   </body>
 </html>
