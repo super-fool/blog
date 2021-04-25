@@ -1,0 +1,19 @@
+{
+  "name": "webpack5-new-feature",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node_modules/.bin/webpack"
+  },
+  "devDependencies": {
+    "chalk": "^4.1.1",
+    "html-webpack-plugin": "^5.3.1",
+    "webpack": "^5.35.0",
+    "webpack-cli": "^4.6.0"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "lodash": "^4.17.21"
+  }
+}

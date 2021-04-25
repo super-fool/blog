@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <style>
+      .item {
+      display: flex;
+      width: 500px;
+      height: 100px;
+    }
+    .item0 {
+      width: 50px;
+      flex: none;
+      background-color: red;
+    }
+    .item1 {
+      flex: 1 1 50px;
+      background-color: green;
+    }
+    .item2 {
+      flex: 7 1 100px;
+      background-color: blue;
+    }
+      </style>
+      <body>
+      <div class="item">
+          <div class="item0">0</div>
+          <div class="item1">1</div>
+          <div class="item2">2</div>
+      </div>
+    <p>flex-grow优先级大于width本身</p>
+  </body>
+</html>
