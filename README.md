@@ -20,6 +20,9 @@
 
 ### faster-coding
 
+### hooks
+[在`useEffect`中如何小心的处理`setInterval`? 请使用`useInterval`!](https://github.com/super-fool/blog/blob/master/faster-coding/hooks/useInterval.js)
+
 ## HTML
 
 2. [你不知道的HTML标签](https://github.com/super-fool/blog/issues/54)
