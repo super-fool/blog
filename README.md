@@ -1,5 +1,9 @@
 # 目录
 
+## Algorithm
+
+1. [判断链表是否回文](https://github.com/super-fool/blog/blob/master/daily-summary/4-27/algorithm.js)
+
 ## JavaScript
 
 1. [JS Coding 规范总结](https://github.com/super-fool/blog/issues/61)
