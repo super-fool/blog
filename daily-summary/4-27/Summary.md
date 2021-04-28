@@ -56,3 +56,16 @@ sequence\r\n
 0\r\n
 \r\n
 ```
+
+
+## TCP拆包
+
+TCP为什么不一次性发送数据,而是需要拆数据呢?
+
+1. 出错率高
+2. 传输慢, 网卡只能串行处理请求, 如果一个请求过大, 会导致阻塞.
+
+拆包 粘包参考:
+https://blog.csdn.net/u011784495/article/details/72477567
+https://zhuanlan.zhihu.com/p/77275039#
+https://blog.csdn.net/ldw662523/article/details/79565797
