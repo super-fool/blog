@@ -46,6 +46,7 @@
 
 1. [技术部的规范管理及工作流](https://github.com/super-fool/blog/issues/50) 
 2. [在职场中, 如何提升个人能力?](https://github.com/super-fool/blog/issues/53) 
+3. [带你进入PnP](https://github.com/super-fool/blog/blob/master/daily-summary/4-28/plug'n'play.md)
 
 ## Git
 
