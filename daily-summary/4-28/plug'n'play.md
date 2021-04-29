@@ -2,6 +2,8 @@
 
  [Getting rid of node_modules](https://github.com/yarnpkg/rfcs/pull/101)
 
+ **一定要记的升级Yarn至2.0版本以上**
+
 ## 目的: 解决引用依赖及安装依赖速度慢的问题.
 
 目前的引用依赖查找流程: 内置包(fs, path) -> 相对文件 -> node_modules -> 系统目录. 这样的引用缺点: I/O 效率太差.
@@ -47,3 +49,4 @@ PnP是通过映射表来维护依赖树中的包及版本. 这个映射表在对
 ### 相关Plugin
 
 [`pnp-webpack-plugin`](https://github.com/arcanis/pnp-webpack-plugin)
+
