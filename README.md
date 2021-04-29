@@ -19,6 +19,7 @@
 ### faster-coding
 
 1. [剖析: loop, array reduce & method chaining](https://github.com/super-fool/blog/blob/master/faster-coding/javascript/loop-reduce-chain.js)
+2. [快速排序](https://github.com/super-fool/blog/blob/master/faster-coding/javascript/quickSort.js)
 ## React
 1. [Tag Input field](https://github.com/super-fool/daily-notes/tree/master/4-14/react-tag-input)
 
