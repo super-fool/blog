@@ -15,6 +15,7 @@
 7. [静态类型 VS 动态类型, 强类型 VS 弱类型](https://github.com/super-fool/blog/issues/78)
 8. [null & undefined](https://github.com/super-fool/blog/issues/79)
 9. [ == VS ===](https://github.com/super-fool/blog/issues/81)
+10. [Promise.allSettled Polyfill](https://github.com/super-fool/blog/blob/master/daily-summary/4-21/Summary.md#promiseallsettled-polyfill)
 
 ### faster-coding
 
