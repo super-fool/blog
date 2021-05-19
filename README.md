@@ -4,6 +4,9 @@
 
 1. [判断链表是否回文](https://github.com/super-fool/blog/blob/master/daily-summary/4-27/algorithm.js)
 
+## Design Patterns
+1. [Observer Pattern VS Publish/Subscribe Pattern](https://github.com/super-fool/blog/tree/master/daily-summary/5-2)
+
 ## JavaScript
 
 1. [JS Coding 规范总结](https://github.com/super-fool/blog/issues/61)
