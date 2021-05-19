@@ -1,7 +1,4 @@
-## Observer Pattern VS Publish/Subscribe Pattern
-
-差异: 调度的地方不一致: 观察者模式中, 是由**目标**具体调度(两者之前存在松耦合); 发布订阅模式中, 是由**调度中心**统一调度(两者完全解耦).
-
+# Observer Pattern VS Publish/Subscribe Pattern
 
 ## Observer
 | 被观察者  | 观察者 |
@@ -12,7 +9,7 @@
 
 ## Pub/Sub
 
-### Publisher
+三要素:
 
 | 发布者 | 调度中心 | 订阅者|
 | --- | --- | --- |
@@ -21,3 +18,10 @@
 称为发布者和订阅者都需要先注入**调度中心**
 
 
+## Diff
+
+| 差异 | Observer | Pub/Sub |
+| --- | --- | --- |
+| 耦合 | 强耦合: Observer必须知道Subject的存在,在Subject中也注入了ObserverList | 松耦合: Pub和Sub不需要知道对方的存在, 只能通过Topic(Broker)获取联系 |
+| 代码执行 | Subject 同步调用 Observers | Pub 只需要通知 Topic, Topic可以异步的触发Subs|
+| 平台 | 同平台 | 跨平台 |
