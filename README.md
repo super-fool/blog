@@ -8,7 +8,7 @@
 1. [Observer Pattern VS Publish/Subscribe Pattern](https://github.com/super-fool/blog/tree/master/daily-summary/5-2)
 
 ## JavaScript
-
+0. [Web Components](https://github.com/super-fool/fool-wx-sapp/blob/master/1-2.md#%E7%BB%84%E4%BB%B6%E5%8C%96%E6%80%9D%E7%BB%B4)
 1. [JS Coding 规范总结](https://github.com/super-fool/blog/issues/61)
 2. [为什么`typeof function`返回的是`function`?](https://github.com/super-fool/blog/issues/49)
 3. [什么是WebP?](https://github.com/super-fool/blog/issues/57)
