@@ -23,6 +23,9 @@
 9. [ == VS ===](https://github.com/super-fool/blog/issues/81)
 10. [Promise.allSettled Polyfill](https://github.com/super-fool/blog/blob/master/daily-summary/4-21/Summary.md#promiseallsettled-polyfill)
 
+### Webpack
+1. [Tree Shaking](https://github.com/super-fool/blog/issues/84)
+
 ### faster-coding
 
 1. [剖析: loop, array reduce & method chaining](https://github.com/super-fool/blog/blob/master/faster-coding/javascript/loop-reduce-chain.js)
