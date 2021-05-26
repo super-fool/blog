@@ -1,5 +1,8 @@
 # 目录
 
+## Programming paradigm
+1. [编程范式的理解](https://github.com/super-fool/blog/blob/master/daily-summary/5-13/Summary.md#%E7%BC%96%E7%A8%8B%E8%8C%83%E5%BC%8Fprogramming-paradigm)
+
 ## Algorithm
 
 1. [判断链表是否回文](https://github.com/super-fool/blog/blob/master/daily-summary/4-27/algorithm.js)
