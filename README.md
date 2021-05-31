@@ -1,5 +1,8 @@
 # 目录
 
+## Programming paradigm
+1. [编程范式的理解](https://github.com/super-fool/blog/blob/master/daily-summary/5-13/Summary.md#%E7%BC%96%E7%A8%8B%E8%8C%83%E5%BC%8Fprogramming-paradigm)
+
 ## Algorithm
 
 1. [判断链表是否回文](https://github.com/super-fool/blog/blob/master/daily-summary/4-27/algorithm.js)
@@ -8,7 +11,7 @@
 1. [Observer Pattern VS Publish/Subscribe Pattern](https://github.com/super-fool/blog/tree/master/daily-summary/5-2)
 
 ## JavaScript
-
+0. [Web Components](https://github.com/super-fool/fool-wx-sapp/blob/master/1-2.md#%E7%BB%84%E4%BB%B6%E5%8C%96%E6%80%9D%E7%BB%B4)
 1. [JS Coding 规范总结](https://github.com/super-fool/blog/issues/61)
 2. [为什么`typeof function`返回的是`function`?](https://github.com/super-fool/blog/issues/49)
 3. [什么是WebP?](https://github.com/super-fool/blog/issues/57)
@@ -19,6 +22,9 @@
 8. [null & undefined](https://github.com/super-fool/blog/issues/79)
 9. [ == VS ===](https://github.com/super-fool/blog/issues/81)
 10. [Promise.allSettled Polyfill](https://github.com/super-fool/blog/blob/master/daily-summary/4-21/Summary.md#promiseallsettled-polyfill)
+
+### Webpack
+1. [Tree Shaking](https://github.com/super-fool/blog/issues/84)
 
 ### faster-coding
 
