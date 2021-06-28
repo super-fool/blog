@@ -75,3 +75,4 @@
 ## 面试
 
 1. ![异步任务: 宏任务&微任务](https://github.com/super-fool/blog/issues/85)
+2. ![判断数组的五种方法](https://github.com/super-fool/blog/issues/86)
