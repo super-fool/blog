@@ -2,6 +2,7 @@
 
 ## 性能优化
 1. [CDN](https://github.com/super-fool/blog/issues/91)
+2. [Webpack](https://github.com/super-fool/blog/issues/92)
 
 ## Programming paradigm
 1. [编程范式的理解](https://github.com/super-fool/blog/blob/master/daily-summary/5-13/Summary.md#%E7%BC%96%E7%A8%8B%E8%8C%83%E5%BC%8Fprogramming-paradigm)
