@@ -1,14 +1,19 @@
 # 目录
 
+## TypeScript
+1.[tsconfig中的target, babel以及shim](https://github.com/super-fool/blog/issues/93)
+
+
 ## 性能优化
 1. [CDN](https://github.com/super-fool/blog/issues/91)
 2. [Webpack](https://github.com/super-fool/blog/issues/92)
 
+
 ## Programming paradigm
 1. [编程范式的理解](https://github.com/super-fool/blog/blob/master/daily-summary/5-13/Summary.md#%E7%BC%96%E7%A8%8B%E8%8C%83%E5%BC%8Fprogramming-paradigm)
 
-## Algorithm
 
+## Algorithm
 1. [判断链表是否回文](https://github.com/super-fool/blog/blob/master/daily-summary/4-27/algorithm.js)
 
 ## Design Patterns
@@ -31,7 +36,6 @@
 1. [Tree Shaking](https://github.com/super-fool/blog/issues/84)
 
 ### faster-coding
-
 1. [剖析: loop, array reduce & method chaining](https://github.com/super-fool/blog/blob/master/faster-coding/javascript/loop-reduce-chain.js)
 2. [快速排序](https://github.com/super-fool/blog/blob/master/faster-coding/javascript/quickSort.js)
 3. [冒泡排序](https://github.com/super-fool/blog/blob/master/faster-coding/javascript/bubbleSort.js)
@@ -41,45 +45,36 @@
 1. [Tag Input field](https://github.com/super-fool/daily-notes/tree/master/4-14/react-tag-input)
 2. [Class Component VS Functional Component]https://github.com/super-fool/blog/issues/88
 
-### faster-coding
-
 ### hooks
-[在`useEffect`中如何小心的处理`setInterval`? 请使用`useInterval`!](https://github.com/super-fool/blog/blob/master/faster-coding/hooks/useInterval.js)
+1. [在`useEffect`中如何小心的处理`setInterval`? 请使用`useInterval`!](https://github.com/super-fool/blog/blob/master/faster-coding/hooks/useInterval.js)
 
 ## HTML
-
-2. [你不知道的HTML标签](https://github.com/super-fool/blog/issues/54)
+1. [你不知道的HTML标签](https://github.com/super-fool/blog/issues/54)
 
 ## 计算机网络
-
 1. [TCP?? & UDP??](https://github.com/super-fool/blog/issues/76)
 2. [强缓存 & 协商缓存](https://github.com/super-fool/blog/issues/80)
 3. [蜂窝移动网络? ISP? ](https://github.com/super-fool/blog/blob/master/daily-summary/4-24/Summary.md)
 
-## CSS
 
-3. [CSS 样式总结](https://github.com/super-fool/blog/issues/55)
+## CSS
+1. [CSS 样式总结](https://github.com/super-fool/blog/issues/55)
 
 
 ## Work Summary
-
 1. [技术部的规范管理及工作流](https://github.com/super-fool/blog/issues/50) 
 2. [在职场中, 如何提升个人能力?](https://github.com/super-fool/blog/issues/53) 
 3. [带你进入PnP](https://github.com/super-fool/blog/blob/master/daily-summary/4-28/plug'n'play.md)
 
 ## Git
-
 1. [Git - tag 标签](https://github.com/super-fool/blog/issues/56)
 
 ## NodeJS
-
 1. [what is `#! /usr/bin/env node`?](https://github.com/super-fool/blog/issues/69)
 
 ## 数据结构
-
 1. [栈 及 coding](https://github.com/super-fool/blog/issues/83)
 
 ## 面试
-
 1. [异步任务: 宏任务&微任务](https://github.com/super-fool/blog/issues/85)
 2. [判断数组的五种方法](https://github.com/super-fool/blog/issues/86)
